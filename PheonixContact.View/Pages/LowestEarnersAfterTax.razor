@@ -1,0 +1,58 @@
+﻿@page "/lowest-earners-after-tax"
+
+<PageTitle>Top Earners By Position</PageTitle>
+@using PhoenixContact.Core.Model
+@using PhoenixContact.Core.Services
+@inject IEmployeeService EmployeeService
+@inject LoggingService LoggingService
+<h3>Osoby z najniższą wypłatą netto według miasta</h3>
+<h5>(po odliczeniu 19% podatku)</h5>
+
+@if (lowestEarners != null && lowestEarners.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Miasto</th>
+                <th>Imię</th>
+                <th>Nazwisko</th>
+                <th>Wynagrodzenie brutto</th>
+                <th>Wynagrodzenie netto</th>
+                <th>Podatek (19%)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var city in lowestEarners)
+            {
+                <tr>
+                    <td>@city.Residence</td>
+                    <td>@city.FirstName</td>
+                    <td>@city.LastName</td>
+                    <td>@city.GrossSalary.ToString("C2")</td>
+                    <td>@city.Salary.ToString("C2")</td>
+                    <td>@((city.Salary * 0.19m).ToString("C2"))</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Ładowanie danych...</p>
+}
+
+@code {
+    private List<EmployeeDto> lowestEarners;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            lowestEarners = await EmployeeService.GetLowestEarnersByCityAsync();
+        }
+        catch(Exception ex)
+        {
+            await LoggingService.SendErrorLogAsync(ex.Message, ex.StackTrace);
+        }
+    }
+}

@@ -1,0 +1,62 @@
+﻿@page "/top-earners-by-city"
+@using PhoenixContact.Core.Model
+@using PhoenixContact.Core.Services
+@inject IEmployeeService EmployeeService
+@inject LoggingService LoggingService
+<PageTitle>Top Earners By City</PageTitle>
+
+<h3>Najlepiej zarabiający według miasta</h3>
+
+@if (topEarnersByCity != null && topEarnersByCity.Any())
+{
+   <table class="table">
+            <thead>
+                <tr>
+                    <th>Miasto</th>
+                    <th>Imię</th>
+                    <th>Nazwisko</th>
+                    <th>Stanowisko</th>
+                    <th>Wynagrodzenie netto</th>
+                    <th>Wynagrodzenie brutto</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var topEarner in topEarnersByCity)
+                {
+                    <tr>
+                        <td>@topEarner.Residence</td>
+                        <td>@topEarner.FirstName</td>
+                        <td>@topEarner.LastName</td>
+                        <td>@topEarner.PositionLevel</td>
+                        <td>@topEarner.Salary.ToString("C2")</td>
+                        <td>@topEarner.GrossSalary.ToString("C2")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+}
+else
+{
+    <p>Ładowanie danych...</p>
+}
+
+@code {
+    private List<EmployeeDto> topEarnersByCity;
+    private bool isLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            topEarnersByCity = await EmployeeService.GetTopEarnersByCityAsync();
+        }
+        catch (Exception ex)
+        {
+            await LoggingService.SendErrorLogAsync(ex.Message, ex.StackTrace);
+        }
+        finally
+        {
+            isLoading = false;
+        }
+    }
+}

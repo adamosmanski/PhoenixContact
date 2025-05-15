@@ -1,0 +1,57 @@
+﻿@page "/top-earners-by-position"
+
+@using PhoenixContact.Core.Model
+@using PhoenixContact.Core.Services
+@inject IEmployeeService EmployeeService
+@inject LoggingService LoggingService
+
+<h3>Najlepiej zarabiający według stanowiska</h3>
+
+@if (topEarners != null)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Stanowisko</th>
+                <th>Imię</th>
+                <th>Nazwisko</th>
+                <th>Wynagrodzenie netto</th>
+                <th>Wynagrodzenie brutto</th>
+                <th>Miejsce zamieszkania</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var earner in topEarners)
+            {
+                <tr>
+                    <td>@earner.PositionLevel</td>
+                    <td>@earner.FirstName</td>
+                    <td>@earner.LastName</td>
+                    <td>@earner.Salary.ToString("C2")</td>
+                    <td>@earner.GrossSalary.ToString("C2")</td>
+                    <td>@earner.Residence</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Ładowanie danych...</p>
+}
+
+@code {
+    private List<EmployeeDto> topEarners;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            topEarners = await EmployeeService.GetTopEarnersByPositionAsync();
+        }
+        catch(Exception e)
+        {
+            await LoggingService.SendErrorLogAsync(e.Message, e.StackTrace);
+        }
+    }
+}

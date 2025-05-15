@@ -1,0 +1,6 @@
+@PhoenixContact.API_HostAddress = http://localhost:5049
+
+GET {{PhoenixContact.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

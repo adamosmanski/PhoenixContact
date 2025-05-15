@@ -1,0 +1,44 @@
+﻿<div class="top-row ps-3 navbar navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="">PhoenixContact.View</a>
+        <button title="Navigation menu" class="navbar-toggler" @onclick="ToggleNavMenu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+</div>
+
+<div class="@NavMenuCssClass nav-scrollable" @onclick="ToggleNavMenu">
+    <nav class="flex-column">
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All" title="Strona główna">
+                <span class="bi bi-house-door-fill" aria-hidden="true"></span> Lista pracowników
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="top-earners-by-city" title="Najwięcej zarabiający według miasta">
+                <span class="bi bi-currency-dollar" aria-hidden="true"></span> Top miasta
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="top-earners-by-position" title="Najwięcej zarabiający według stanowiska">
+                <span class="bi bi-person-badge" aria-hidden="true"></span> Top stanowiska
+            </NavLink>
+        </div>
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="lowest-earners-after-tax" title="Najmniej zarabiający netto według miasta">
+                <span class="bi bi-currency-exchange" aria-hidden="true"></span> Min netto
+            </NavLink>
+        </div>
+    </nav>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

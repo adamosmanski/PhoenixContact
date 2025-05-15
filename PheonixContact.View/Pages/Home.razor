@@ -1,0 +1,159 @@
+﻿@page "/"
+@using PhoenixContact.Core.Model
+@using PhoenixContact.Core.Services
+@inject IEmployeeService EmployeeService
+@inject LoggingService LoggingService
+<PageTitle>Home</PageTitle>
+
+<h3>Employee CSV File Upload</h3>
+
+<InputFile OnChange="@OnInputFileChange" accept=".csv" />
+
+@if (allEmployees != null && allEmployees.Any())
+{
+    <div class="mb-3">
+        <span>Wszystkie rekordy: @allEmployees.Count</span> |
+        <span>Strona @currentPage z @totalPages</span>
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Imię</th>
+                <th>Nazwisko</th>
+                <th>Wynagrodzenie netto</th>
+                <th>Wynagrodzenie brutto</th>
+                <th>Stanowisko</th>
+                <th>Miejsce zamieszkania</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in pagedEmployees)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                    <td>@employee.Salary.ToString("C2")</td>
+                    <td>@employee.GrossSalary.ToString("C2")</td>
+                    <td>@employee.PositionLevel</td>
+                    <td>@employee.Residence</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <nav>
+        <ul class="pagination">
+            <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                <button class="page-link" @onclick="() => ChangePage(1)">Pierwsza strona</button>
+            </li>
+            <li class="page-item @(currentPage == 1 ? "disabled" : "")">
+                <button class="page-link" @onclick="() => ChangePage(currentPage - 1)">Poprzednia strona</button>
+            </li>
+
+            @for (int i = startPage; i <= endPage; i++)
+            {
+                <li class="page-item @(i == currentPage ? "active" : "")">
+                    <button class="page-link" @onclick="() => ChangePage(i)">@i</button>
+                </li>
+            }
+
+            <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                <button class="page-link" @onclick="() => ChangePage(currentPage + 1)">Następna strona</button>
+            </li>
+            <li class="page-item @(currentPage == totalPages ? "disabled" : "")">
+                <button class="page-link" @onclick="() => ChangePage(totalPages)">Ostatnia strona</button>
+            </li>
+        </ul>
+    </nav>
+}
+@code {
+    private List<EmployeeDto> allEmployees = new();
+    private List<EmployeeDto> pagedEmployees = new();
+    private int currentPage = 1;
+    private int pageSize = 100;
+    private int totalPages = 1;
+    private int startPage = 1;
+    private int endPage = 1;
+    private const int maxVisiblePages = 5;
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            allEmployees = await EmployeeService.GetAllEmployeesAsync();
+        }
+        catch(Exception ex)
+        {
+            await LoggingService.SendErrorLogAsync(ex.Message, ex.StackTrace);
+        }
+        UpdatePagination();
+    }
+
+    private async Task OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        if (file == null) return;
+
+        try
+        {
+            using var stream = file.OpenReadStream(3 * 1024 * 1024);
+            allEmployees = await EmployeeService.ParseCsvFileAsync(stream);
+
+            if (allEmployees.Any())
+            {
+                var success = await EmployeeService.SendEmployeesToApiAsync(allEmployees);
+                if (success)
+                {
+                    await LoggingService.SendErrorLogAsync(success.ToString());
+                }
+                else
+                {
+                    await LoggingService.SendErrorLogAsync(success.ToString());
+                }
+            }
+            else
+            {
+                await LoggingService.SendErrorLogAsync("Błąd zapisywania danych do bazy.");
+            }
+
+            currentPage = 1;
+            UpdatePagination();
+        }
+        catch (Exception ex)
+        {
+            await LoggingService.SendErrorLogAsync(ex.Message, ex.StackTrace);
+        }
+        finally
+        {
+            StateHasChanged();
+        }
+    }
+
+    private void ChangePage(int page)
+    {
+        if (page < 1 || page > totalPages)
+            return;
+
+        currentPage = page;
+        UpdatePagination();
+    }
+
+    private void UpdatePagination()
+    {
+        totalPages = (int)Math.Ceiling((double)allEmployees.Count / pageSize);
+        pagedEmployees = allEmployees
+            .Skip((currentPage - 1) * pageSize)
+            .Take(pageSize)
+            .ToList();
+        startPage = Math.Max(1, currentPage - maxVisiblePages / 2);
+        endPage = Math.Min(totalPages, startPage + maxVisiblePages - 1);
+
+        if (endPage - startPage + 1 < maxVisiblePages)
+        {
+            startPage = Math.Max(1, endPage - maxVisiblePages + 1);
+        }
+    }
+}
