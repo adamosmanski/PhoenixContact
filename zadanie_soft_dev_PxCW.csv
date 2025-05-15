@@ -1,0 +1,1001 @@
+﻿Lp;Imie;Nazwisko;Zarobki;Poziom stanowiska;Miejsce zmieszkania
+1;Bogumił Pietrzak;Kowalski;672;S4;Warszawa
+2;Franciszek;Nowak;1730;S4;Kraków
+3;Leszek;Jakubowski;1069;S4;Nowy Tomyśl
+4;Leonardo;Wójcik;678;S2;Warszawa
+5;Artur;Krajewska;1321;S2;Sopot
+6;Jakub;Czerwiński;1592;S1;Łódź
+7;Franciszek;Wojciechowski;324;S4;Łódź
+8;Bogumił;Kaczmarczyk;1361;S3;Łódź
+9;Kornel;Kowalski;207;S4;Kraków
+10;Marcel;Kaczmarczyk;815;S4;Nowy Tomyśl
+11;Maurycy;Pietrzak;1488;S3;Łódź
+12;Igor;Pietrzak;369;S3;Łódź
+13;Andrzej;Jaworski;605;S3;Sopot
+14;Damian;Duda;116;S1;Sopot
+15;Oktawian;Duda;737;S2;Łódź
+16;Ryszard;Sawicki;696;S2;Nowy Tomyśl
+17;Marcin;Bąk;945;S1;Warszawa
+18;Filip;Sikora;487;S4;Nowy Tomyśl
+19;Marian;Błaszczyk;86;S1;Warszawa
+20;Eugeniusz;Kaźmierczak;1476;S1;Warszawa
+21;Anastazy;Ziółkowska;1641;S2;Nowy Tomyśl
+22;Dominik;Sokołowski;115;S3;Warszawa
+23;Aleksy;Kołodziej;210;S2;Kraków
+24;Adam;Czerwiński;1334;S3;Sopot
+25;Karol;Górecki;1017;S3;Warszawa
+26;Kryspin;Kubiak;906;S3;Warszawa
+27;Franciszek;Kaczmarczyk;1476;S1;Poznań
+28;Alek;Stępień;1414;S2;Sopot
+29;Mikołaj;Kołodziej;760;S1;Poznań
+30;Patryk;Kowalczyk;437;S2;Sopot
+31;Joachim;Walczak;26;S3;Sopot
+32;Dorian;Głowacka;1268;S2;Nowy Tomyśl
+33;Leonardo;Jasiński;943;S4;Sopot
+34;Remigiusz;Zieliński;1176;S2;Łódź
+35;Dariusz;Cieślak;1295;S1;Poznań
+36;Gracjan;Lewandowski;1305;S2;Kraków
+37;Miron;Włodarczyk;1801;S3;Sopot
+38;Anastazy;Szewczyk;1513;S3;Łódź
+39;Maksymilian;Błaszczyk;639;S3;Nowy Tomyśl
+40;Maurycy;Tomaszewski;858;S4;Sopot
+41;Mariusz;Stępień;1599;S1;Kraków
+42;Klaudiusz;Michalak;1990;S2;Poznań
+43;Piotr;Marciniak;921;S1;Kraków
+44;Radosław;Maciejewski;908;S3;Warszawa
+45;Marek;Ostrowski;292;S4;Nowy Tomyśl
+46;Gniewomir;Malinowski;1758;S4;Sopot
+47;Marcin;Jakubowski;616;S4;Sopot
+48;Kewin;Górski;697;S3;Poznań
+49;Milan;Gajewska;1223;S4;Warszawa
+50;Bruno;Pawlak;1071;S1;Warszawa
+51;Ksawery;Kalinowski;1562;S1;Poznań
+52;Michał;Przybylski;1408;S1;Poznań
+53;Ignacy;Wróblewski;363;S3;Nowy Tomyśl
+54;Alek;Mróz;497;S2;Poznań
+55;Kordian;Cieślak;303;S1;Sopot
+56;Denis;Głowacka;347;S2;Warszawa
+57;Artur;Szulc;1867;S3;Łódź
+58;Olgierd;Szczepański;602;S3;Łódź
+59;Damian;Andrzejewski;1172;S3;Łódź
+60;Ludwik;Duda;51;S2;Sopot
+61;Borys;Stępień;233;S3;Warszawa
+62;Miron;Krajewska;888;S1;Łódź
+63;Kacper;Błaszczyk;88;S3;Poznań
+64;Arkadiusz;Michalak;1477;S4;Sopot
+65;Igor;Sikora;945;S4;Łódź
+66;Artur;Przybylski;50;S1;Poznań
+67;Mikołaj;Zakrzewska;1679;S3;Warszawa
+68;Aleksy;Baranowski;652;S1;Warszawa
+69;Miron;Kamiński;863;S1;Nowy Tomyśl
+70;Oktawian;Jasiński;1113;S3;Łódź
+71;Fabian;Wiśniewski;173;S3;Kraków
+72;Dawid;Brzeziński;631;S3;Kraków
+73;Gustaw;Sawicki;1991;S4;Warszawa
+74;Janusz;Dąbrowski;1563;S2;Sopot
+75;Gniewomir;Kwiatkowski;1393;S2;Nowy Tomyśl
+76;Cezary;Zawadzki;1080;S3;Sopot
+77;Alek;Zakrzewska;797;S2;Warszawa
+78;Dobromił;Czerwiński;704;S1;Łódź
+79;Aureliusz;Makowski;1754;S1;Sopot
+80;Andrzej;Urbańska;1231;S4;Kraków
+81;Olgierd;Czerwiński;49;S1;Łódź
+82;Denis;Makowski;1580;S4;Łódź
+83;Adrian;Pietrzak;74;S1;Warszawa
+84;Filip;Baran;1822;S2;Warszawa
+85;Klaudiusz;Szczepański;1165;S3;Sopot
+86;Bolesław;Maciejewski;1947;S4;Kraków
+87;Konstanty;Cieślak;1982;S2;Nowy Tomyśl
+88;Hubert;Mazur;1323;S2;Warszawa
+89;Mateusz;Wróblewski;998;S2;Poznań
+90;Paweł;Malinowski;1692;S2;Nowy Tomyśl
+91;Damian;Pietrzak;759;S3;Warszawa
+92;Karol;Adamska;1663;S1;Poznań
+93;Dariusz;Bąk;631;S2;Poznań
+94;Roman;Krupa;549;S1;Kraków
+95;Mateusz;Czarnecki;971;S3;Poznań
+96;Kacper;Górski;782;S2;Warszawa
+97;Cezary;Wróblewski;30;S2;Sopot
+98;Jan;Adamska;1286;S1;Poznań
+99;Ryszard;Wysocki;1236;S4;Warszawa
+100;Ernest;Krawczyk;969;S1;Poznań
+101;Przemysław;Włodarczyk;948;S2;Poznań
+102;Albert;Wojciechowski;1264;S3;Nowy Tomyśl
+103;Arkadiusz;Szulc;804;S1;Łódź
+104;Aleks;Krupa;1776;S4;Sopot
+105;Juliusz;Szewczyk;517;S4;Sopot
+106;Allan;Zakrzewska;287;S4;Warszawa
+107;Oskar;Borkowski;1672;S1;Warszawa
+108;Dawid;Czerwiński;536;S3;Kraków
+109;Arkadiusz;Szymczak;206;S2;Nowy Tomyśl
+110;Bogumił;Lis;1023;S2;Poznań
+111;Kewin;Urbańska;816;S2;Kraków
+112;Marcin;Jasiński;96;S4;Sopot
+113;Henryk;Zieliński;1631;S2;Łódź
+114;Ignacy;Pietrzak;264;S4;Łódź
+115;Oskar;Gajewska;1611;S1;Nowy Tomyśl
+116;Alan;Kaźmierczak;746;S1;Łódź
+117;Eustachy;Sokołowski;1254;S3;Poznań
+118;Alan;Szewczyk;916;S2;Warszawa
+119;Jakub;Tomaszewski;389;S1;Warszawa
+120;Julian;Włodarczyk;1131;S2;Poznań
+121;Kazimierz;Wysocki;656;S1;Sopot
+122;Milan;Stępień;1634;S3;Łódź
+123;Ryszard;Czerwiński;1141;S3;Nowy Tomyśl
+124;Fryderyk;Pietrzak;1380;S4;Łódź
+125;Kamil;Dąbrowski;632;S2;Łódź
+126;Mirosław;Krajewska;407;S3;Łódź
+127;Igor;Kubiak;1577;S3;Sopot
+128;Bartosz;Baran;1162;S3;Łódź
+129;Edward;Krajewska;807;S1;Kraków
+130;Fabian;Czarnecki;817;S2;Sopot
+131;Roman;Wójcik;1942;S2;Sopot
+132;Henryk;Szczepański;1177;S2;Warszawa
+133;Anastazy;Woźniak;1088;S2;Sopot
+134;Adrian;Krajewska;317;S2;Warszawa
+135;Aleksy;Krupa;1433;S4;Warszawa
+136;Grzegorz;Kubiak;790;S4;Łódź
+137;Gustaw;Szymczak;1995;S4;Kraków
+138;Ignacy;Sokołowski;159;S4;Poznań
+139;Alan;Szymczak;1449;S3;Warszawa
+140;Hubert;Zakrzewska;642;S3;Sopot
+141;Kryspin;Włodarczyk;1861;S2;Warszawa
+142;Aleks;Baran;1884;S1;Sopot
+143;Janusz;Szewczyk;953;S3;Warszawa
+144;Emanuel;Jakubowski;420;S3;Poznań
+145;Krystian;Jaworski;1138;S1;Sopot
+146;Florian;Makowski;384;S4;Warszawa
+147;Aleksy;Krawczyk;909;S3;Łódź
+148;Bartłomiej;Krajewska;11;S3;Sopot
+149;Damian;Kwiatkowski;1076;S3;Warszawa
+150;Edward;Sawicki;1926;S1;Kraków
+151;Kazimierz;Kaźmierczak;1377;S2;Sopot
+152;Ernest;Kowalski;1021;S3;Kraków
+153;Filip;Sawicki;1916;S4;Kraków
+154;Norbert;Szymański;1392;S4;Łódź
+155;Denis;Kowalski;1380;S1;Kraków
+156;Krystian;Jasiński;199;S4;Poznań
+157;Natan;Wróblewski;333;S3;Warszawa
+158;Korneliusz;Woźniak;758;S1;Kraków
+159;Antoni;Mazurek;1210;S1;Kraków
+160;Dawid;Jakubowski;1251;S1;Warszawa
+161;Patryk;Mazur;437;S2;Kraków
+162;Amir;Laskowska;1442;S1;Warszawa
+163;Igor;Sawicki;1555;S3;Kraków
+164;Milan;Dąbrowski;144;S4;Nowy Tomyśl
+165;Cyprian;Krupa;1947;S1;Sopot
+166;Denis;Wojciechowski;321;S2;Łódź
+167;Oktawian;Kołodziej;1475;S3;Łódź
+168;Maurycy;Woźniak;314;S4;Kraków
+169;Igor;Kwiatkowski;955;S4;Poznań
+170;Anatol;Włodarczyk;1154;S1;Nowy Tomyśl
+171;Julian;Kaźmierczak;2;S2;Łódź
+172;Damian;Michalak;1733;S3;Sopot
+173;Kajetan;Kołodziej;878;S2;Warszawa
+174;Bolesław;Tomaszewski;1963;S3;Warszawa
+175;Adam;Sikora;1964;S2;Sopot
+176;Albert;Tomaszewski;1223;S3;Warszawa
+177;Kornel;Wróblewski;158;S4;Nowy Tomyśl
+178;Kordian;Włodarczyk;1794;S3;Sopot
+179;Mikołaj;Błaszczyk;1597;S3;Sopot
+180;Marcin;Sokołowski;1132;S2;Poznań
+181;Miłosz;Mróz;1166;S4;Poznań
+182;Martin;Maciejewski;75;S4;Łódź
+183;Andrzej;Jakubowski;1757;S1;Łódź
+184;Alan;Kaźmierczak;1268;S4;Łódź
+185;Alek;Kozłowski;1134;S2;Łódź
+186;Błażej;Górecki;1055;S1;Sopot
+187;Miłosz;Wiśniewski;153;S4;Warszawa
+188;Anastazy;Kołodziej;1183;S2;Sopot
+189;Borys;Urbańska;1008;S3;Poznań
+190;Jędrzej;Błaszczyk;793;S3;Poznań
+191;Eustachy;Wasilewska;1821;S4;Kraków
+192;Anatol;Laskowska;1683;S4;Warszawa
+193;Ireneusz;Kaźmierczak;187;S3;Nowy Tomyśl
+194;Rafał;Zieliński;1598;S3;Sopot
+195;Henryk;Górecki;702;S3;Sopot
+196;Alfred;Błaszczyk;3;S1;Łódź
+197;Gustaw;Czerwiński;714;S3;Nowy Tomyśl
+198;Bronisław;Baran;1930;S4;Nowy Tomyśl
+199;Czesław;Kubiak;1991;S2;Kraków
+200;Milan;Krupa;1439;S4;Nowy Tomyśl
+201;Krzysztof;Krajewska;1505;S3;Sopot
+202;Anastazy;Wójcik;1260;S1;Warszawa
+203;Alexander;Nowak;790;S3;Warszawa
+204;Jarosław;Sobczak;962;S3;Nowy Tomyśl
+205;Ignacy;Szulc;1797;S4;Poznań
+206;Olaf;Szymczak;477;S2;Sopot
+207;Alexander;Kubiak;1399;S2;Warszawa
+208;Ignacy;Czarnecki;980;S1;Kraków
+209;Dobromił;Urbańska;1091;S4;Poznań
+210;Jakub;Laskowska;1791;S2;Sopot
+211;Edward;Michalak;942;S1;Warszawa
+212;Edward;Andrzejewski;1668;S3;Nowy Tomyśl
+213;Norbert;Witkowski;632;S1;Sopot
+214;Aleks;Sobczak;1737;S2;Kraków
+215;Ernest;Sobczak;1455;S2;Nowy Tomyśl
+216;Kazimierz;Wójcik;61;S2;Kraków
+217;Bartosz;Maciejewski;1850;S3;Nowy Tomyśl
+218;Alek;Marciniak;7;S3;Kraków
+219;Maksymilian;Głowacka;1898;S1;Kraków
+220;Fryderyk;Szymczak;15;S2;Warszawa
+221;Kazimierz;Jankowski;933;S3;Kraków
+222;Korneliusz;Sadowska;400;S3;Nowy Tomyśl
+223;Igor;Wojciechowski;164;S4;Kraków
+224;Bogumił;Duda;599;S2;Sopot
+225;Fabian;Górecki;1827;S4;Warszawa
+226;Mieszko;Kaczmarczyk;1295;S3;Łódź
+227;Roman;Mazur;1225;S4;Warszawa
+228;Bartłomiej;Kubiak;1041;S2;Kraków
+229;Paweł;Jakubowski;340;S1;Sopot
+230;Bolesław;Kaźmierczak;748;S1;Sopot
+231;Ariel;Szymczak;1695;S4;Kraków
+232;Konrad;Sawicki;906;S4;Poznań
+233;Emil;Sadowska;173;S3;Warszawa
+234;Mateusz;Andrzejewski;1591;S1;Sopot
+235;Mariusz;Makowski;575;S1;Łódź
+236;Gabriel;Kwiatkowski;1252;S2;Łódź
+237;Karol;Sadowska;1315;S3;Kraków
+238;Jarosław;Woźniak;1585;S1;Poznań
+239;Błażej;Wójcik;851;S2;Warszawa
+240;Milan;Górecki;1733;S2;Poznań
+241;Marcin;Czarnecki;834;S2;Kraków
+242;Oskar;Kaczmarczyk;1346;S4;Łódź
+243;Piotr;Czarnecki;581;S4;Poznań
+244;Denis;Głowacka;1167;S4;Łódź
+245;Maurycy;Kaźmierczak;1946;S4;Poznań
+246;Kuba;Andrzejewski;637;S4;Sopot
+247;Mirosław;Zalewski;933;S2;Kraków
+248;Cezary;Sadowska;1343;S4;Sopot
+249;Franciszek;Szulc;377;S3;Nowy Tomyśl
+250;Fryderyk;Malinowski;1437;S3;Sopot
+251;Anastazy;Wysocki;1881;S4;Kraków
+252;Kewin;Zawadzki;437;S3;Nowy Tomyśl
+253;Fryderyk;Szymczak;854;S1;Kraków
+254;Alexander;Jasiński;914;S4;Łódź
+255;Ariel;Czarnecki;229;S3;Poznań
+256;Eustachy;Zakrzewska;1821;S3;Nowy Tomyśl
+257;Gabriel;Urbańska;284;S1;Kraków
+258;Filip;Krajewska;391;S3;Łódź
+259;Jan;Malinowski;770;S1;Poznań
+260;Gustaw;Gajewska;1475;S2;Kraków
+261;Konstanty;Lewandowski;1235;S1;Łódź
+262;Janusz;Ziółkowska;420;S3;Warszawa
+263;Janusz;Kozłowski;1852;S3;Warszawa
+264;Kazimierz;Jasiński;1851;S1;Warszawa
+265;Mikołaj;Zakrzewska;1735;S1;Łódź
+266;Cezary;Kucharski;1913;S1;Łódź
+267;Jakub;Szymański;380;S3;Poznań
+268;Oktawian;Pawlak;760;S2;Poznań
+269;Edward;Rutkowski;1407;S4;Nowy Tomyśl
+270;Cezary;Malinowski;891;S4;Kraków
+271;Arkadiusz;Górecki;1752;S3;Poznań
+272;Leonardo;Włodarczyk;806;S2;Poznań
+273;Aleksy;Mazur;293;S1;Łódź
+274;Dobromił;Lis;1525;S2;Poznań
+275;Heronim;Sadowska;156;S3;Łódź
+276;Julian;Wiśniewski;441;S1;Poznań
+277;Anatol;Pawlak;1649;S4;Poznań
+278;Cyprian;Wysocki;1554;S4;Poznań
+279;Bogumił;Jankowski;1157;S3;Łódź
+280;Cyprian;Gajewska;425;S2;Poznań
+281;Alexander;Górski;1636;S3;Kraków
+282;Albert;Rutkowski;310;S2;Łódź
+283;Ignacy;Urbańska;865;S4;Kraków
+284;Oskar;Kowalczyk;1252;S1;Sopot
+285;Joachim;Wójcik;419;S3;Sopot
+286;Dawid;Czarnecki;712;S3;Warszawa
+287;Andrzej;Sobczak;400;S2;Warszawa
+288;Emanuel;Ziółkowska;341;S3;Warszawa
+289;Korneliusz;Kaźmierczak;1269;S2;Kraków
+290;Cyprian;Piotrowski;677;S1;Warszawa
+291;Lucjan;Kubiak;1486;S2;Sopot
+292;Eryk;Krupa;1031;S2;Łódź
+293;Aleksander;Wasilewska;1478;S2;Poznań
+294;Lucjan;Zieliński;342;S2;Sopot
+295;Eugeniusz;Sadowska;1199;S4;Łódź
+296;Marek;Zalewski;186;S2;Poznań
+297;Anatol;Kaźmierczak;210;S4;Kraków
+298;Jarosław;Przybylski;454;S4;Sopot
+299;Bartłomiej;Borkowski;1980;S3;Sopot
+300;Gniewomir;Wasilewska;715;S1;Łódź
+301;Bronisław;Duda;627;S4;Poznań
+302;Dorian;Witkowski;251;S2;Łódź
+303;Ignacy;Jankowski;670;S3;Poznań
+304;Ireneusz;Kaczmarczyk;1863;S3;Kraków
+305;Gniewomir;Wasilewska;33;S4;Poznań
+306;Maurycy;Sawicki;773;S1;Poznań
+307;Leonardo;Duda;1804;S2;Nowy Tomyśl
+308;Janusz;Tomaszewski;1335;S2;Warszawa
+309;Marian;Głowacka;772;S4;Nowy Tomyśl
+310;Leonardo;Włodarczyk;442;S1;Łódź
+311;Mieszko;Szymczak;1651;S2;Sopot
+312;Konrad;Woźniak;1991;S3;Łódź
+313;Bartłomiej;Laskowska;1314;S1;Sopot
+314;Gabriel;Jakubowski;1537;S3;Nowy Tomyśl
+315;Amadeusz;Szewczyk;1007;S2;Poznań
+316;Remigiusz;Górecki;1778;S3;Warszawa
+317;Kuba;Zawadzki;956;S3;Nowy Tomyśl
+318;Czesław;Zakrzewska;1893;S4;Łódź
+319;Artur;Krawczyk;153;S4;Sopot
+320;Jarosław;Brzeziński;798;S2;Nowy Tomyśl
+321;Krzysztof;Borkowski;87;S1;Nowy Tomyśl
+322;Leszek;Tomaszewski;121;S2;Nowy Tomyśl
+323;Ernest;Marciniak;1754;S2;Sopot
+324;Franciszek;Szewczyk;1334;S3;Kraków
+325;Leonardo;Czarnecki;576;S2;Poznań
+326;Martin;Czarnecki;237;S2;Nowy Tomyśl
+327;Eugeniusz;Gajewska;1977;S3;Nowy Tomyśl
+328;Hubert;Kaźmierczak;1138;S1;Kraków
+329;Jarosław;Szulc;1043;S2;Sopot
+330;Diego;Dąbrowski;704;S3;Sopot
+331;Józef;Głowacka;231;S3;Sopot
+332;Mieszko;Szczepański;1942;S2;Kraków
+333;Gniewomir;Duda;1542;S3;Kraków
+334;Andrzej;Duda;826;S2;Kraków
+335;Alex;Makowski;1806;S2;Kraków
+336;Kornel;Kucharski;1962;S4;Nowy Tomyśl
+337;Cezary;Ziółkowska;322;S2;Nowy Tomyśl
+338;Roman;Mróz;1883;S4;Kraków
+339;Ludwik;Mazurek;1090;S3;Warszawa
+340;Gustaw;Krajewska;966;S1;Nowy Tomyśl
+341;Adrian;Czerwiński;754;S4;Nowy Tomyśl
+342;Heronim;Wójcik;1135;S1;Łódź
+343;Maurycy;Kaźmierczak;1217;S3;Łódź
+344;Michał;Mazur;1607;S2;Kraków
+345;Łukasz;Sobczak;181;S4;Nowy Tomyśl
+346;Eryk;Krawczyk;1643;S3;Łódź
+347;Anastazy;Wojciechowski;1157;S1;Łódź
+348;Emil;Jakubowski;1988;S4;Nowy Tomyśl
+349;Allan;Stępień;507;S3;Łódź
+350;Krystian;Tomaszewski;139;S2;Łódź
+351;Błażej;Wysocki;1272;S2;Warszawa
+352;Kuba;Kozłowski;652;S2;Nowy Tomyśl
+353;Bruno;Krupa;1762;S3;Sopot
+354;Kajetan;Zalewski;1855;S4;Kraków
+355;Roman;Lis;80;S2;Sopot
+356;Borys;Makowski;1824;S1;Nowy Tomyśl
+357;Miłosz;Mazur;1670;S4;Poznań
+358;Bartłomiej;Szewczyk;535;S4;Sopot
+359;Kacper;Kaźmierczak;1042;S2;Warszawa
+360;Piotr;Dąbrowski;238;S3;Sopot
+361;Bogumił;Głowacka;838;S4;Kraków
+362;Jędrzej;Zieliński;1901;S4;Poznań
+363;Denis;Czarnecki;613;S3;Poznań
+364;Michał;Ziółkowska;1484;S3;Nowy Tomyśl
+365;Miron;Pietrzak;1213;S4;Sopot
+366;Arkadiusz;Górski;1033;S3;Poznań
+367;Natan;Marciniak;565;S1;Poznań
+368;Kryspin;Zawadzki;642;S2;Poznań
+369;Korneliusz;Gajewska;1918;S1;Łódź
+370;Igor;Wasilewska;964;S3;Kraków
+371;Alan;Rutkowski;1525;S3;Nowy Tomyśl
+372;Kuba;Cieślak;1093;S2;Nowy Tomyśl
+373;Artur;Michalak;336;S1;Warszawa
+374;Kacper;Krupa;1366;S1;Łódź
+375;Dawid;Maciejewski;956;S3;Sopot
+376;Aleks;Andrzejewski;1617;S1;Warszawa
+377;Cezary;Kubiak;451;S1;Warszawa
+378;Ernest;Wójcik;1673;S2;Kraków
+379;Juliusz;Brzeziński;1150;S3;Sopot
+380;Oskar;Czarnecki;784;S4;Warszawa
+381;Alex;Woźniak;534;S2;Sopot
+382;Jerzy;Zieliński;34;S2;Łódź
+383;Milan;Kwiatkowski;118;S4;Poznań
+384;Mieszko;Jasiński;1708;S1;Sopot
+385;Kamil;Woźniak;427;S3;Kraków
+386;Oktawian;Zakrzewska;1208;S4;Łódź
+387;Bogumił;Szczepański;396;S1;Sopot
+388;Alfred;Sadowska;509;S1;Poznań
+389;Miron;Górski;1295;S1;Łódź
+390;Lucjan;Krawczyk;405;S4;Poznań
+391;Anastazy;Marciniak;440;S2;Poznań
+392;Aureliusz;Szewczyk;1118;S4;Łódź
+393;Mateusz;Kowalczyk;1973;S3;Kraków
+394;Marcel;Szczepański;890;S2;Kraków
+395;Robert;Sokołowski;773;S4;Sopot
+396;Denis;Błaszczyk;809;S4;Kraków
+397;Michał;Kowalski;1206;S3;Sopot
+398;Remigiusz;Kaźmierczak;620;S1;Sopot
+399;Ryszard;Gajewska;1996;S2;Warszawa
+400;Anastazy;Chmielewski;1995;S3;Poznań
+401;Kryspin;Sokołowski;1812;S3;Warszawa
+402;Miłosz;Nowak;1000;S1;Sopot
+403;Ryszard;Andrzejewski;88;S2;Nowy Tomyśl
+404;Miłosz;Wysocki;627;S2;Sopot
+405;Klaudiusz;Wojciechowski;154;S2;Nowy Tomyśl
+406;Arkadiusz;Ostrowski;579;S3;Poznań
+407;Antoni;Kamiński;1238;S4;Sopot
+408;Juliusz;Adamska;471;S1;Warszawa
+409;Dariusz;Szczepański;1802;S4;Sopot
+410;Kryspin;Lis;460;S4;Nowy Tomyśl
+411;Paweł;Czerwiński;1642;S3;Warszawa
+412;Adrian;Woźniak;1616;S2;Kraków
+413;Cyprian;Zawadzki;674;S1;Nowy Tomyśl
+414;Dobromił;Adamska;353;S1;Sopot
+415;Kuba;Borkowski;1149;S4;Kraków
+416;Amadeusz;Głowacka;105;S4;Warszawa
+417;Janusz;Czarnecki;438;S3;Warszawa
+418;Fryderyk;Gajewska;937;S2;Warszawa
+419;Rafał;Górecki;336;S4;Kraków
+420;Filip;Przybylski;869;S2;Kraków
+421;Dorian;Kowalski;1400;S4;Sopot
+422;Alojzy;Woźniak;1362;S4;Poznań
+423;Edward;Zieliński;890;S3;Kraków
+424;Aureliusz;Szymczak;177;S4;Nowy Tomyśl
+425;Klaudiusz;Ostrowski;854;S2;Łódź
+426;Ariel;Sobczak;1692;S4;Nowy Tomyśl
+427;Jędrzej;Kaczmarczyk;740;S1;Kraków
+428;Mirosław;Brzeziński;1822;S3;Warszawa
+429;Igor;Witkowski;1706;S2;Poznań
+430;Milan;Kaźmierczak;586;S3;Poznań
+431;Aleks;Duda;1865;S3;Kraków
+432;Borys;Cieślak;1723;S1;Kraków
+433;Natan;Dąbrowski;521;S4;Sopot
+434;Gracjan;Wojciechowski;849;S2;Nowy Tomyśl
+435;Kajetan;Lewandowski;505;S4;Nowy Tomyśl
+436;Klaudiusz;Mróz;39;S2;Łódź
+437;Miron;Borkowski;321;S3;Poznań
+438;Krzysztof;Marciniak;1481;S1;Kraków
+439;Bartłomiej;Włodarczyk;1984;S3;Warszawa
+440;Filip;Borkowski;932;S4;Łódź
+441;Konrad;Marciniak;986;S4;Kraków
+442;Kuba;Kozłowski;1182;S3;Poznań
+443;Mariusz;Wasilewska;1742;S1;Poznań
+444;Rafał;Górski;84;S3;Nowy Tomyśl
+445;Juliusz;Urbańska;975;S1;Łódź
+446;Diego;Sikora;420;S2;Warszawa
+447;Arkadiusz;Wójcik;333;S2;Łódź
+448;Piotr;Nowak;1990;S1;Poznań
+449;Ernest;Borkowski;540;S2;Nowy Tomyśl
+450;Klaudiusz;Stępień;47;S4;Łódź
+451;Bruno;Tomaszewski;460;S3;Łódź
+452;Alexander;Kozłowski;726;S3;Sopot
+453;Czesław;Wójcik;315;S1;Sopot
+454;Cezary;Krajewska;655;S4;Łódź
+455;Alek;Sikora;842;S1;Warszawa
+456;Anatol;Borkowski;269;S4;Nowy Tomyśl
+457;Bolesław;Głowacka;1394;S3;Nowy Tomyśl
+458;Gustaw;Makowski;1821;S4;Poznań
+459;Allan;Lewandowski;1698;S2;Łódź
+460;Bartłomiej;Chmielewski;1559;S1;Poznań
+461;Dawid;Wróblewski;915;S4;Warszawa
+462;Jarosław;Gajewska;774;S3;Kraków
+463;Eryk;Sikorska;900;S1;Nowy Tomyśl
+464;Cyprian;Szymański;1389;S1;Poznań
+465;Alek;Szymczak;1774;S3;Łódź
+466;Andrzej;Szymczak;502;S3;Poznań
+467;Jacek;Szymański;2000;S3;Poznań
+468;Amadeusz;Marciniak;187;S1;Nowy Tomyśl
+469;Bogumił;Zieliński;902;S3;Warszawa
+470;Kewin;Włodarczyk;1056;S1;Łódź
+471;Kewin;Zakrzewska;1616;S3;Sopot
+472;Alan;Krajewska;18;S1;Nowy Tomyśl
+473;Alan;Szymański;68;S1;Kraków
+474;Aleksander;Baran;1007;S4;Poznań
+475;Amadeusz;Lis;1343;S1;Sopot
+476;Bruno;Szulc;511;S4;Kraków
+477;Mieszko;Sobczak;859;S2;Sopot
+478;Heronim;Brzeziński;1514;S3;Poznań
+479;Marcin;Sobczak;889;S1;Łódź
+480;Ksawery;Kozłowski;317;S2;Łódź
+481;Konrad;Kozłowski;578;S3;Łódź
+482;Miron;Wójcik;990;S2;Łódź
+483;Mateusz;Chmielewski;6;S2;Sopot
+484;Alojzy;Wróblewski;1924;S2;Kraków
+485;Ksawery;Krupa;194;S2;Sopot
+486;Gniewomir;Kalinowski;173;S1;Nowy Tomyśl
+487;Olgierd;Pietrzak;842;S3;Łódź
+488;Adrian;Krawczyk;360;S4;Kraków
+489;Bartosz;Michalak;482;S4;Nowy Tomyśl
+490;Kazimierz;Lis;976;S4;Warszawa
+491;Ariel;Kamiński;984;S3;Nowy Tomyśl
+492;Martin;Kołodziej;1018;S2;Łódź
+493;Piotr;Sadowska;1143;S2;Poznań
+494;Robert;Kozłowski;1973;S2;Poznań
+495;Anatol;Adamska;599;S4;Poznań
+496;Damian;Głowacka;193;S2;Poznań
+497;Anastazy;Makowski;1191;S3;Sopot
+498;Jerzy;Szymański;1781;S4;Łódź
+499;Bogumił;Krupa;1634;S4;Warszawa
+500;Jacek;Kalinowski;1620;S4;Kraków
+501;Jarosław;Malinowski;667;S3;Warszawa
+502;Roman;Szulc;1236;S1;Sopot
+503;Aleksy;Duda;1514;S1;Warszawa
+504;Konstanty;Pawlak;1355;S3;Nowy Tomyśl
+505;Karol;Głowacka;557;S4;Kraków
+506;Czesław;Kaźmierczak;1973;S2;Nowy Tomyśl
+507;Aleks;Sikora;1831;S1;Nowy Tomyśl
+508;Maksymilian;Górecki;1249;S3;Warszawa
+509;Mikołaj;Kucharski;580;S2;Poznań
+510;Mateusz;Chmielewski;1728;S1;Poznań
+511;Natan;Mazurek;1610;S3;Nowy Tomyśl
+512;Jerzy;Sikora;1121;S4;Warszawa
+513;Klaudiusz;Zieliński;1262;S4;Warszawa
+514;Grzegorz;Kowalczyk;525;S3;Łódź
+515;Allan;Jasiński;1321;S1;Sopot
+516;Anatol;Kaźmierczak;1677;S2;Kraków
+517;Henryk;Pietrzak;861;S1;Warszawa
+518;Natan;Wójcik;1229;S3;Sopot
+519;Emanuel;Kowalski;1000;S4;Sopot
+520;Krzysztof;Sikora;1146;S1;Poznań
+521;Antoni;Kalinowski;1769;S1;Kraków
+522;Kajetan;Chmielewski;1454;S4;Nowy Tomyśl
+523;Edward;Zakrzewska;1351;S2;Nowy Tomyśl
+524;Alan;Kozłowski;845;S2;Sopot
+525;Kazimierz;Szymczak;1210;S3;Poznań
+526;Bartłomiej;Makowski;1692;S3;Sopot
+527;Igor;Kaczmarczyk;628;S2;Nowy Tomyśl
+528;Aleks;Woźniak;1610;S2;Sopot
+529;Milan;Kozłowski;106;S1;Sopot
+530;Cyprian;Woźniak;1756;S4;Nowy Tomyśl
+531;Ariel;Maciejewski;1406;S2;Kraków
+532;Olaf;Kowalczyk;852;S2;Łódź
+533;Allan;Mazurek;1876;S1;Sopot
+534;Marek;Zalewski;162;S3;Sopot
+535;Denis;Michalak;764;S3;Poznań
+536;Mikołaj;Lewandowski;1018;S4;Warszawa
+537;Jacek;Kucharski;1117;S4;Sopot
+538;Mikołaj;Andrzejewski;655;S1;Warszawa
+539;Karol;Zalewski;56;S2;Kraków
+540;Dobromił;Witkowski;1179;S4;Łódź
+541;Rafał;Adamska;1180;S2;Sopot
+542;Eustachy;Szczepański;710;S4;Sopot
+543;Roman;Michalak;872;S2;Kraków
+544;Heronim;Jaworski;1132;S3;Poznań
+545;Krzysztof;Włodarczyk;1134;S1;Warszawa
+546;Czesław;Ostrowski;596;S2;Kraków
+547;Czesław;Sokołowski;1004;S3;Sopot
+548;Jerzy;Kamiński;1035;S3;Warszawa
+549;Denis;Kamiński;846;S1;Sopot
+550;Anatol;Pietrzak;595;S4;Łódź
+551;Edward;Zieliński;1938;S3;Kraków
+552;Jacek;Sobczak;1739;S2;Łódź
+553;Natan;Czarnecki;95;S1;Sopot
+554;Krzysztof;Wiśniewski;1538;S2;Łódź
+555;Oktawian;Borkowski;1519;S2;Poznań
+556;Kazimierz;Mazur;1813;S2;Poznań
+557;Korneliusz;Cieślak;1120;S4;Nowy Tomyśl
+558;Emanuel;Witkowski;1079;S3;Poznań
+559;Dariusz;Wasilewska;175;S3;Nowy Tomyśl
+560;Radosław;Wojciechowski;1326;S1;Łódź
+561;Marcel;Woźniak;1698;S3;Warszawa
+562;Aleksander;Zawadzki;1552;S1;Nowy Tomyśl
+563;Adrian;Czerwiński;140;S2;Poznań
+564;Ariel;Tomaszewski;113;S4;Warszawa
+565;Aleksander;Szulc;1667;S4;Kraków
+566;Alan;Jakubowski;1056;S3;Nowy Tomyśl
+567;Dorian;Pawlak;647;S3;Nowy Tomyśl
+568;Radosław;Ostrowski;1058;S4;Kraków
+569;Milan;Czerwiński;1419;S4;Sopot
+570;Radosław;Lis;1289;S2;Łódź
+571;Kazimierz;Wojciechowski;1583;S4;Poznań
+572;Gustaw;Ziółkowska;533;S2;Sopot
+573;Bolesław;Szewczyk;1391;S2;Sopot
+574;Piotr;Woźniak;649;S1;Łódź
+575;Bartosz;Wróblewski;1317;S2;Kraków
+576;Gniewomir;Nowak;332;S3;Łódź
+577;Bartłomiej;Mróz;1826;S3;Nowy Tomyśl
+578;Florian;Cieślak;1499;S4;Kraków
+579;Alexander;Włodarczyk;147;S2;Sopot
+580;Gabriel;Zakrzewska;1608;S4;Nowy Tomyśl
+581;Dorian;Brzeziński;151;S2;Poznań
+582;Robert;Wróblewski;597;S4;Nowy Tomyśl
+583;Ariel;Mazurek;1925;S1;Łódź
+584;Franciszek;Adamska;1346;S3;Łódź
+585;Daniel;Piotrowski;1679;S3;Nowy Tomyśl
+586;Jacek;Jankowski;1430;S1;Nowy Tomyśl
+587;Milan;Czarnecki;1680;S2;Sopot
+588;Milan;Sikora;1449;S1;Poznań
+589;Kazimierz;Kozłowski;647;S1;Sopot
+590;Dariusz;Wiśniewski;1932;S4;Poznań
+591;Artur;Szewczyk;298;S4;Nowy Tomyśl
+592;Hubert;Piotrowski;679;S2;Łódź
+593;Jerzy;Mazur;389;S1;Kraków
+594;Mieszko;Wysocki;1471;S4;Łódź
+595;Korneliusz;Lewandowski;1952;S3;Warszawa
+596;Konstanty;Kozłowski;193;S1;Sopot
+597;Kuba;Kaczmarczyk;951;S2;Poznań
+598;Ludwik;Błaszczyk;244;S4;Nowy Tomyśl
+599;Konrad;Kalinowski;1620;S1;Sopot
+600;Korneliusz;Zieliński;864;S3;Sopot
+601;Henryk;Kozłowski;1719;S3;Łódź
+602;Ernest;Kucharski;462;S2;Warszawa
+603;Adam;Witkowski;1174;S1;Łódź
+604;Korneliusz;Mazur;225;S3;Kraków
+605;Gniewomir;Borkowski;35;S3;Kraków
+606;Radosław;Szymański;1373;S4;Nowy Tomyśl
+607;Łukasz;Zawadzki;1911;S3;Nowy Tomyśl
+608;Kamil;Jankowski;1664;S4;Kraków
+609;Alek;Wróblewski;1829;S1;Kraków
+610;Maciej;Jankowski;700;S4;Kraków
+611;Aleksy;Kowalski;1177;S4;Nowy Tomyśl
+612;Konstanty;Wojciechowski;804;S2;Nowy Tomyśl
+613;Milan;Gajewska;655;S4;Nowy Tomyśl
+614;Patryk;Michalak;1717;S3;Łódź
+615;Damian;Kubiak;1258;S2;Nowy Tomyśl
+616;Anatol;Krupa;949;S1;Kraków
+617;Amadeusz;Michalak;1313;S3;Kraków
+618;Olaf;Kwiatkowski;200;S3;Sopot
+619;Ireneusz;Szymczak;1786;S2;Warszawa
+620;Cezary;Sawicki;901;S1;Sopot
+621;Aleks;Baranowski;592;S3;Kraków
+622;Mariusz;Wysocki;1675;S2;Sopot
+623;Olaf;Marciniak;891;S4;Łódź
+624;Oskar;Ostrowski;16;S1;Sopot
+625;Korneliusz;Wróblewski;389;S4;Kraków
+626;Maksymilian;Urbańska;544;S1;Sopot
+627;Jakub;Baran;516;S2;Łódź
+628;Ignacy;Zieliński;1807;S1;Łódź
+629;Oskar;Piotrowski;898;S4;Warszawa
+630;Błażej;Nowak;151;S4;Łódź
+631;Piotr;Pawlak;851;S4;Nowy Tomyśl
+632;Milan;Sikorska;524;S1;Łódź
+633;Ernest;Kalinowski;468;S2;Poznań
+634;Kacper;Gajewska;1168;S4;Łódź
+635;Klaudiusz;Czarnecki;1726;S3;Poznań
+636;Kamil;Mazurek;649;S1;Łódź
+637;Mirosław;Kalinowski;958;S2;Nowy Tomyśl
+638;Bartosz;Ziółkowska;899;S2;Łódź
+639;Radosław;Maciejewski;916;S2;Poznań
+640;Aleksander;Baran;1235;S2;Nowy Tomyśl
+641;Amir;Witkowski;1157;S2;Łódź
+642;Kornel;Głowacka;1288;S2;Sopot
+643;Jakub;Kołodziej;936;S4;Łódź
+644;Eustachy;Sobczak;242;S4;Warszawa
+645;Ludwik;Jankowski;1044;S2;Warszawa
+646;Eugeniusz;Zieliński;1570;S4;Nowy Tomyśl
+647;Natan;Baran;985;S1;Łódź
+648;Emil;Adamska;175;S4;Nowy Tomyśl
+649;Kuba;Wysocki;247;S4;Łódź
+650;Edward;Jaworski;1625;S4;Poznań
+651;Eustachy;Maciejewski;1785;S2;Łódź
+652;Mieszko;Głowacka;1304;S3;Łódź
+653;Jerzy;Wróblewski;1428;S3;Nowy Tomyśl
+654;Eryk;Brzeziński;129;S4;Kraków
+655;Andrzej;Krajewska;1451;S2;Nowy Tomyśl
+656;Kamil;Pawlak;1637;S2;Kraków
+657;Arkadiusz;Ostrowski;1581;S2;Warszawa
+658;Gabriel;Szewczyk;65;S2;Łódź
+659;Damian;Cieślak;232;S3;Warszawa
+660;Franciszek;Woźniak;1335;S3;Warszawa
+661;Denis;Włodarczyk;531;S2;Nowy Tomyśl
+662;Maciej;Kalinowski;563;S1;Kraków
+663;Krystian;Ziółkowska;1302;S1;Poznań
+664;Milan;Zieliński;298;S3;Sopot
+665;Patryk;Wiśniewski;1028;S4;Poznań
+666;Alexander;Michalak;1976;S1;Warszawa
+667;Patryk;Wojciechowski;1897;S1;Kraków
+668;Arkadiusz;Cieślak;1708;S2;Łódź
+669;Leszek;Pawlak;318;S4;Sopot
+670;Konstanty;Sikorska;493;S1;Łódź
+671;Juliusz;Sadowska;1280;S4;Kraków
+672;Juliusz;Jaworski;1617;S4;Sopot
+673;Gustaw;Michalak;1806;S3;Poznań
+674;Martin;Mazur;1764;S4;Łódź
+675;Denis;Chmielewski;1803;S3;Kraków
+676;Oskar;Głowacka;590;S1;Kraków
+677;Artur;Duda;440;S2;Kraków
+678;Krystian;Dąbrowski;1415;S3;Nowy Tomyśl
+679;Antoni;Sokołowski;552;S3;Sopot
+680;Kajetan;Szczepański;169;S4;Warszawa
+681;Amir;Sadowska;990;S3;Nowy Tomyśl
+682;Oskar;Tomaszewski;1226;S1;Łódź
+683;Alan;Dąbrowski;1939;S3;Nowy Tomyśl
+684;Oktawian;Wiśniewski;1019;S3;Nowy Tomyśl
+685;Eugeniusz;Czarnecki;1863;S2;Nowy Tomyśl
+686;Joachim;Chmielewski;1926;S1;Sopot
+687;Klaudiusz;Mazurek;93;S4;Sopot
+688;Krystian;Witkowski;579;S2;Łódź
+689;Norbert;Zalewski;283;S4;Łódź
+690;Bartłomiej;Kwiatkowski;863;S4;Sopot
+691;Kajetan;Malinowski;1691;S1;Nowy Tomyśl
+692;Maksymilian;Cieślak;680;S2;Poznań
+693;Janusz;Mazur;186;S1;Poznań
+694;Jerzy;Ostrowski;844;S2;Nowy Tomyśl
+695;Kordian;Stępień;1537;S3;Kraków
+696;Mateusz;Włodarczyk;1817;S3;Poznań
+697;Cyprian;Mróz;669;S4;Łódź
+698;Edward;Jakubowski;1118;S4;Poznań
+699;Igor;Piotrowski;1769;S3;Kraków
+700;Jerzy;Przybylski;325;S1;Kraków
+701;Bolesław;Kucharski;4;S3;Kraków
+702;Adam;Baranowski;572;S4;Warszawa
+703;Roman;Zawadzki;715;S2;Poznań
+704;Ryszard;Chmielewski;1033;S4;Nowy Tomyśl
+705;Jędrzej;Sikora;336;S4;Kraków
+706;Ernest;Szulc;114;S4;Warszawa
+707;Eugeniusz;Sobczak;1036;S1;Warszawa
+708;Dorian;Witkowski;1184;S3;Poznań
+709;Natan;Makowski;1268;S2;Nowy Tomyśl
+710;Gabriel;Kozłowski;275;S3;Warszawa
+711;Leonardo;Ziółkowska;1157;S2;Poznań
+712;Miron;Sadowska;618;S1;Kraków
+713;Ariel;Borkowski;1426;S1;Poznań
+714;Kazimierz;Zalewski;1140;S3;Poznań
+715;Błażej;Rutkowski;1219;S1;Nowy Tomyśl
+716;Korneliusz;Gajewska;1848;S1;Poznań
+717;Damian;Tomaszewski;1096;S4;Kraków
+718;Olaf;Michalak;340;S2;Sopot
+719;Henryk;Borkowski;38;S3;Nowy Tomyśl
+720;Alek;Jaworski;1793;S2;Kraków
+721;Joachim;Kamiński;1556;S1;Sopot
+722;Mateusz;Kalinowski;935;S1;Kraków
+723;Julian;Zieliński;1002;S1;Łódź
+724;Bartosz;Laskowska;1331;S1;Warszawa
+725;Alex;Kamiński;660;S2;Kraków
+726;Klaudiusz;Baranowski;1072;S4;Łódź
+727;Kamil;Szczepański;704;S3;Sopot
+728;Olgierd;Adamska;728;S3;Warszawa
+729;Emil;Dąbrowski;1148;S3;Poznań
+730;Aleks;Górecki;1811;S1;Poznań
+731;Mikołaj;Sikora;1368;S4;Nowy Tomyśl
+732;Gniewomir;Krajewska;1225;S2;Nowy Tomyśl
+733;Adam;Jakubowski;1696;S3;Warszawa
+734;Paweł;Włodarczyk;1606;S3;Poznań
+735;Mariusz;Woźniak;1433;S4;Kraków
+736;Ksawery;Dąbrowski;1714;S2;Kraków
+737;Piotr;Andrzejewski;1330;S3;Kraków
+738;Czesław;Stępień;545;S4;Warszawa
+739;Marcin;Kowalczyk;1245;S3;Sopot
+740;Kewin;Wójcik;35;S3;Kraków
+741;Jerzy;Maciejewski;1805;S1;Kraków
+742;Mirosław;Szymański;1114;S2;Sopot
+743;Kajetan;Zieliński;1619;S4;Warszawa
+744;Rafał;Stępień;783;S2;Kraków
+745;Maciej;Kaźmierczak;254;S1;Poznań
+746;Radosław;Witkowski;864;S3;Łódź
+747;Emil;Bąk;1997;S1;Kraków
+748;Błażej;Wróblewski;164;S3;Kraków
+749;Korneliusz;Cieślak;1070;S3;Łódź
+750;Adam;Lewandowski;1999;S4;Poznań
+751;Miłosz;Kubiak;155;S4;Łódź
+752;Alojzy;Szewczyk;1224;S3;Poznań
+753;Kamil;Ostrowski;75;S1;Poznań
+754;Ernest;Laskowska;1999;S4;Sopot
+755;Bartłomiej;Ziółkowska;118;S1;Nowy Tomyśl
+756;Andrzej;Kalinowski;1459;S1;Sopot
+757;Krystian;Szymański;562;S2;Sopot
+758;Przemysław;Zieliński;167;S4;Warszawa
+759;Mikołaj;Zieliński;505;S3;Kraków
+760;Kewin;Kozłowski;237;S4;Kraków
+761;Bruno;Włodarczyk;1115;S1;Warszawa
+762;Gniewomir;Krajewska;329;S2;Nowy Tomyśl
+763;Arkadiusz;Kubiak;1740;S4;Kraków
+764;Aureliusz;Gajewska;903;S4;Poznań
+765;Florian;Tomaszewski;946;S1;Poznań
+766;Hubert;Zakrzewska;1704;S2;Kraków
+767;Gustaw;Urbańska;596;S2;Łódź
+768;Józef;Sikorska;720;S3;Poznań
+769;Denis;Włodarczyk;4;S1;Łódź
+770;Dawid;Witkowski;308;S2;Warszawa
+771;Filip;Tomaszewski;539;S4;Warszawa
+772;Korneliusz;Zieliński;612;S2;Sopot
+773;Kryspin;Kamiński;502;S2;Nowy Tomyśl
+774;Alojzy;Jaworski;1177;S3;Nowy Tomyśl
+775;Alan;Wójcik;627;S3;Kraków
+776;Dariusz;Michalak;1610;S1;Nowy Tomyśl
+777;Emil;Kwiatkowski;324;S3;Poznań
+778;Ludwik;Ziółkowska;53;S1;Poznań
+779;Błażej;Woźniak;714;S2;Poznań
+780;Emanuel;Szymański;338;S3;Warszawa
+781;Rafał;Witkowski;1516;S4;Kraków
+782;Piotr;Wróblewski;1610;S2;Poznań
+783;Mateusz;Czarnecki;392;S3;Nowy Tomyśl
+784;Leszek;Zieliński;1810;S4;Łódź
+785;Radosław;Kowalczyk;46;S1;Kraków
+786;Bronisław;Witkowski;911;S3;Nowy Tomyśl
+787;Mikołaj;Sadowska;422;S2;Poznań
+788;Antoni;Szewczyk;1967;S3;Łódź
+789;Joachim;Krajewska;1972;S3;Nowy Tomyśl
+790;Juliusz;Duda;927;S3;Łódź
+791;Józef;Wasilewska;104;S4;Nowy Tomyśl
+792;Norbert;Urbańska;667;S1;Kraków
+793;Korneliusz;Jaworski;51;S2;Łódź
+794;Bolesław;Jankowski;21;S1;Łódź
+795;Joachim;Woźniak;1760;S2;Nowy Tomyśl
+796;Bronisław;Pietrzak;608;S1;Łódź
+797;Aleksy;Mróz;1753;S3;Nowy Tomyśl
+798;Bolesław;Sokołowski;254;S4;Warszawa
+799;Aleksy;Pawlak;718;S1;Warszawa
+800;Ludwik;Krajewska;416;S3;Sopot
+801;Aureliusz;Przybylski;40;S4;Kraków
+802;Krzysztof;Włodarczyk;66;S4;Warszawa
+803;Oktawian;Sobczak;876;S1;Warszawa
+804;Jakub;Krawczyk;766;S4;Warszawa
+805;Maurycy;Lewandowski;1709;S3;Nowy Tomyśl
+806;Denis;Górecki;966;S4;Warszawa
+807;Jarosław;Sikora;1069;S2;Łódź
+808;Artur;Walczak;1822;S2;Łódź
+809;Mieszko;Sobczak;413;S3;Nowy Tomyśl
+810;Miron;Szulc;293;S2;Kraków
+811;Aleksy;Cieślak;1201;S3;Łódź
+812;Alan;Szewczyk;710;S2;Łódź
+813;Aleks;Piotrowski;513;S1;Nowy Tomyśl
+814;Jacek;Cieślak;810;S3;Nowy Tomyśl
+815;Korneliusz;Bąk;1542;S2;Kraków
+816;Anatol;Kaczmarczyk;1654;S1;Poznań
+817;Marcel;Mazur;1296;S1;Warszawa
+818;Paweł;Witkowski;941;S4;Nowy Tomyśl
+819;Radosław;Kaźmierczak;1204;S1;Sopot
+820;Ignacy;Zawadzki;1055;S4;Sopot
+821;Heronim;Kołodziej;1061;S3;Sopot
+822;Ludwik;Duda;1997;S1;Łódź
+823;Eryk;Kucharski;730;S2;Kraków
+824;Mikołaj;Błaszczyk;1304;S3;Poznań
+825;Anatol;Kwiatkowski;770;S2;Poznań
+826;Leonardo;Laskowska;1189;S4;Sopot
+827;Miron;Sobczak;304;S4;Poznań
+828;Olgierd;Laskowska;1343;S4;Poznań
+829;Marian;Witkowski;886;S3;Warszawa
+830;Hubert;Kowalczyk;250;S3;Warszawa
+831;Krzysztof;Rutkowski;904;S3;Warszawa
+832;Miłosz;Kowalczyk;1446;S1;Kraków
+833;Aleksy;Sikorska;1316;S1;Sopot
+834;Maciej;Baranowski;1991;S4;Poznań
+835;Eustachy;Bąk;1770;S4;Sopot
+836;Kordian;Lewandowski;888;S3;Łódź
+837;Janusz;Borkowski;1580;S1;Kraków
+838;Jakub;Michalak;103;S4;Kraków
+839;Ignacy;Szulc;1630;S1;Nowy Tomyśl
+840;Ignacy;Sikora;819;S3;Kraków
+841;Kornel;Górecki;1514;S3;Poznań
+842;Mateusz;Sadowska;291;S3;Kraków
+843;Franciszek;Głowacka;1351;S1;Poznań
+844;Ksawery;Kozłowski;443;S4;Łódź
+845;Emanuel;Głowacka;23;S3;Sopot
+846;Maksymilian;Jasiński;62;S2;Nowy Tomyśl
+847;Gustaw;Kamiński;864;S2;Warszawa
+848;Kryspin;Dąbrowski;1105;S1;Poznań
+849;Karol;Sikora;1731;S1;Nowy Tomyśl
+850;Rafał;Andrzejewski;1654;S4;Sopot
+851;Emil;Marciniak;1940;S3;Łódź
+852;Bartosz;Czerwiński;423;S4;Sopot
+853;Eugeniusz;Pawlak;708;S2;Poznań
+854;Łukasz;Borkowski;654;S4;Poznań
+855;Alexander;Mazur;717;S4;Poznań
+856;Milan;Urbańska;1610;S4;Warszawa
+857;Korneliusz;Górecki;1537;S3;Sopot
+858;Artur;Zalewski;951;S1;Warszawa
+859;Józef;Wojciechowski;1457;S4;Łódź
+860;Henryk;Kowalski;954;S2;Łódź
+861;Artur;Cieślak;1725;S2;Warszawa
+862;Hubert;Rutkowski;1704;S4;Łódź
+863;Eugeniusz;Urbańska;1027;S4;Nowy Tomyśl
+864;Ariel;Lis;1676;S4;Nowy Tomyśl
+865;Alan;Kowalczyk;495;S1;Kraków
+866;Olaf;Kwiatkowski;1060;S1;Poznań
+867;Bogumił;Piotrowski;465;S1;Łódź
+868;Amadeusz;Szulc;1044;S3;Kraków
+869;Aleks;Wójcik;965;S2;Łódź
+870;Bartłomiej;Ostrowski;1943;S1;Poznań
+871;Kajetan;Borkowski;671;S3;Kraków
+872;Krzysztof;Sawicki;386;S2;Poznań
+873;Eugeniusz;Szewczyk;1852;S4;Kraków
+874;Alek;Malinowski;706;S3;Poznań
+875;Bronisław;Kaźmierczak;924;S3;Łódź
+876;Adrian;Witkowski;252;S3;Poznań
+877;Karol;Głowacka;278;S1;Sopot
+878;Eugeniusz;Malinowski;1427;S1;Warszawa
+879;Aleks;Błaszczyk;1125;S2;Sopot
+880;Cyprian;Brzeziński;885;S2;Poznań
+881;Aleksy;Sawicki;774;S1;Nowy Tomyśl
+882;Fabian;Kowalski;1545;S4;Nowy Tomyśl
+883;Adrian;Sobczak;398;S2;Kraków
+884;Kuba;Kowalczyk;1466;S1;Warszawa
+885;Juliusz;Makowski;98;S4;Poznań
+886;Aleksy;Kowalski;1128;S3;Poznań
+887;Miron;Przybylski;149;S3;Warszawa
+888;Ludwik;Sikorska;1760;S3;Nowy Tomyśl
+889;Henryk;Andrzejewski;1266;S2;Poznań
+890;Dobromił;Mazur;1688;S2;Łódź
+891;Albert;Szymczak;1927;S1;Nowy Tomyśl
+892;Dominik;Kwiatkowski;91;S3;Nowy Tomyśl
+893;Cyprian;Nowak;1419;S3;Kraków
+894;Daniel;Duda;907;S2;Łódź
+895;Jędrzej;Czerwiński;1780;S1;Kraków
+896;Mikołaj;Włodarczyk;807;S4;Warszawa
+897;Konstanty;Górski;810;S4;Nowy Tomyśl
+898;Józef;Piotrowski;450;S1;Kraków
+899;Natan;Jasiński;364;S1;Warszawa
+900;Alek;Kubiak;111;S1;Łódź
+901;Remigiusz;Kaczmarczyk;819;S3;Łódź
+902;Florian;Wysocki;3;S1;Poznań
+903;Rafał;Zawadzki;1570;S1;Kraków
+904;Leonardo;Kołodziej;1304;S4;Nowy Tomyśl
+905;Eustachy;Wysocki;981;S3;Łódź
+906;Emanuel;Przybylski;1521;S4;Łódź
+907;Kornel;Wiśniewski;216;S3;Warszawa
+908;Anatol;Woźniak;1503;S4;Kraków
+909;Radosław;Zalewski;1716;S4;Sopot
+910;Jakub;Baranowski;1319;S4;Warszawa
+911;Ignacy;Wiśniewski;684;S4;Łódź
+912;Filip;Kucharski;1120;S4;Nowy Tomyśl
+913;Przemysław;Piotrowski;1553;S3;Nowy Tomyśl
+914;Cezary;Jaworski;1361;S2;Warszawa
+915;Kamil;Jankowski;1624;S2;Łódź
+916;Dariusz;Wysocki;1729;S3;Warszawa
+917;Eugeniusz;Ziółkowska;778;S4;Łódź
+918;Błażej;Kucharski;1715;S1;Kraków
+919;Ireneusz;Borkowski;1775;S2;Poznań
+920;Albert;Wojciechowski;237;S4;Kraków
+921;Dorian;Kaczmarczyk;1894;S4;Kraków
+922;Martin;Nowak;1150;S4;Warszawa
+923;Radosław;Kucharski;83;S2;Poznań
+924;Janusz;Bąk;1038;S1;Nowy Tomyśl
+925;Filip;Zieliński;1832;S1;Warszawa
+926;Gabriel;Jasiński;1130;S1;Nowy Tomyśl
+927;Eustachy;Wojciechowski;1093;S1;Warszawa
+928;Kacper;Adamska;389;S2;Sopot
+929;Aureliusz;Maciejewski;474;S1;Warszawa
+930;Mateusz;Kowalczyk;1767;S1;Łódź
+931;Norbert;Baranowski;22;S3;Łódź
+932;Bruno;Jankowski;531;S2;Kraków
+933;Damian;Przybylski;1666;S4;Kraków
+934;Olaf;Cieślak;468;S1;Sopot
+935;Igor;Sikora;765;S4;Poznań
+936;Henryk;Jaworski;1210;S4;Poznań
+937;Amir;Urbańska;630;S4;Poznań
+938;Amir;Nowak;323;S1;Warszawa
+939;Gustaw;Woźniak;1788;S1;Warszawa
+940;Henryk;Bąk;1520;S4;Sopot
+941;Aleks;Włodarczyk;665;S1;Warszawa
+942;Alojzy;Nowak;1090;S2;Kraków
+943;Kamil;Krajewska;943;S3;Poznań
+944;Anatol;Mazur;1998;S1;Kraków
+945;Juliusz;Kowalski;1939;S3;Sopot
+946;Maurycy;Szulc;1175;S4;Poznań
+947;Bartłomiej;Wasilewska;1897;S4;Nowy Tomyśl
+948;Albert;Górski;354;S3;Nowy Tomyśl
+949;Allan;Kwiatkowski;1067;S3;Łódź
+950;Emanuel;Kaźmierczak;1550;S3;Warszawa
+951;Konstanty;Borkowski;126;S1;Warszawa
+952;Albert;Czerwiński;574;S3;Sopot
+953;Janusz;Wojciechowski;1153;S4;Kraków
+954;Aleks;Krawczyk;522;S2;Nowy Tomyśl
+955;Lucjan;Malinowski;195;S2;Kraków
+956;Eustachy;Wojciechowski;1813;S1;Poznań
+957;Andrzej;Mróz;1036;S1;Poznań
+958;Marian;Krupa;740;S2;Warszawa
+959;Ignacy;Kalinowski;193;S2;Łódź
+960;Krzysztof;Gajewska;1009;S3;Poznań
+961;Czesław;Górski;1130;S2;Nowy Tomyśl
+962;Adrian;Wójcik;1791;S1;Łódź
+963;Gracjan;Kaczmarczyk;1922;S1;Sopot
+964;Olaf;Jankowski;432;S1;Warszawa
+965;Adrian;Kozłowski;378;S3;Sopot
+966;Gracjan;Witkowski;1729;S1;Łódź
+967;Rafał;Sadowska;1325;S4;Sopot
+968;Piotr;Andrzejewski;311;S1;Sopot
+969;Kordian;Stępień;1268;S3;Sopot
+970;Bartosz;Andrzejewski;669;S3;Poznań
+971;Mateusz;Tomaszewski;1169;S2;Sopot
+972;Kazimierz;Lis;1844;S4;Nowy Tomyśl
+973;Leonardo;Kowalczyk;999;S1;Łódź
+974;Lucjan;Szewczyk;1628;S4;Kraków
+975;Jarosław;Wasilewska;341;S4;Poznań
+976;Alexander;Krawczyk;334;S1;Poznań
+977;Olgierd;Bąk;1284;S4;Nowy Tomyśl
+978;Borys;Kucharski;666;S2;Sopot
+979;Alan;Zieliński;1699;S2;Łódź
+980;Kuba;Lewandowski;385;S3;Kraków
+981;Amir;Kowalczyk;209;S2;Sopot
+982;Natan;Lis;1069;S1;Warszawa
+983;Kajetan;Głowacka;110;S2;Nowy Tomyśl
+984;Allan;Laskowska;1180;S3;Poznań
+985;Alojzy;Wróblewski;1579;S1;Sopot
+986;Grzegorz;Mazurek;1314;S4;Łódź
+987;Robert;Piotrowski;886;S1;Warszawa
+988;Kuba;Kucharski;423;S3;Kraków
+989;Marek;Krawczyk;1802;S2;Poznań
+990;Alan;Ostrowski;1375;S2;Łódź
+991;Kacper;Kaźmierczak;389;S1;Warszawa
+992;Ariel;Szymański;315;S4;Łódź
+993;Emil;Jasiński;734;S4;Nowy Tomyśl
+994;Leonardo;Głowacka;1655;S1;Łódź
+995;Krystian;Szczepański;1708;S3;Kraków
+996;Hubert;Sikorska;1837;S3;Sopot
+997;Franciszek;Sokołowski;1428;S4;Nowy Tomyśl
+998;Marian;Sokołowski;224;S4;Sopot
+999;Leonardo;Makowski;139;S3;Łódź
+1000;Krzysztof;Zawadzki;475;S4;Sopot
